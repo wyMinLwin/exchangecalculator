@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,700;0,800;1,800;1,900&family=Roboto+Condensed:wght@300;400&display=swap');
+
+body {
+    background-color: #f1faee;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #1d3557;
+    width: 100%;
+}
+
+header{
+    font-family: 'Kanit', sans-serif;
+}
+
+.logoIcon svg{
+    width: 220px;
+}
+
+.save{
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+.verg{
+    font-size: 3em;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.result{
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.convert{
+    height: 100%;
+    width: 50%;
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+.records {
+    background-color: #e63947a8;
+}
+
+@media (max-width:576px) {
+    .result{
+        font-size: 2em;
+    }
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

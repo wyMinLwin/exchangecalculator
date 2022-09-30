@@ -1,0 +1,5 @@
+color
+bg - #f1faee
+primary - #e63946
+text -#1d3557
+secondary - #457b9d
