@@ -1,3 +1,3 @@
-Demo Link - https://wyminlwin-piano.netlify.app/
+Demo Link - https://wyminlwin-exchange-calculator.netlify.app/
 
-Piano with vanilla js
+Exchange Calculator with vanilla js
